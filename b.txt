@@ -13,6 +13,4 @@ d
 d
 d
 d
-eeeeeee
-ffffff
-hhhhhhh
+0000000000000000000000000000000000
